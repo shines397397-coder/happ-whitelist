@@ -20,8 +20,8 @@
     },
     {
       "source": "https://raw.githubusercontent.com/hussaroff/lte-universal-checked/main/whitelist.txt",
-      "valid": 25,
-      "added": 23,
+      "valid": 34,
+      "added": 27,
       "ok": true
     },
     {
@@ -31,12 +31,12 @@
       "ok": true
     }
   ],
-  "input_unique_configurations": 158,
+  "input_unique_configurations": 162,
   "input_unique_endpoints_host_port": 57,
-  "main_configurations": 106,
+  "main_configurations": 113,
   "main_unique_endpoints_host_port": 57,
-  "tcp_endpoints_reachable_from_github": 54,
+  "tcp_endpoints_reachable_from_github": 53,
   "tcp_endpoints_tested_from_github": 57,
-  "tcp_configs": 99,
+  "tcp_configs": 103,
   "note": "TCP success from GitHub is not a VLESS/Reality check and does not imply connectivity from mobile networks in Russia"
 }
