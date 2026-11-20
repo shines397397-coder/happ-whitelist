@@ -8,35 +8,35 @@
     },
     {
       "source": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
-      "valid": 59,
-      "added": 59,
+      "valid": 15,
+      "added": 15,
       "ok": true
     },
     {
       "source": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt",
-      "valid": 64,
-      "added": 17,
+      "valid": 20,
+      "added": 5,
       "ok": true
     },
     {
       "source": "https://raw.githubusercontent.com/hussaroff/lte-universal-checked/main/whitelist.txt",
       "valid": 87,
-      "added": 57,
+      "added": 69,
       "ok": true
     },
     {
       "source": "https://raw.githubusercontent.com/aviamastersgh/vpn-free-russia/main/ru_configs.txt",
       "valid": 48,
-      "added": 34,
+      "added": 44,
       "ok": true
     }
   ],
-  "input_unique_configurations": 285,
-  "input_unique_endpoints_host_port": 75,
-  "main_configurations": 191,
-  "main_unique_endpoints_host_port": 75,
-  "tcp_endpoints_reachable_from_github": 72,
-  "tcp_endpoints_tested_from_github": 75,
-  "tcp_configs": 183,
+  "input_unique_configurations": 251,
+  "input_unique_endpoints_host_port": 64,
+  "main_configurations": 161,
+  "main_unique_endpoints_host_port": 64,
+  "tcp_endpoints_reachable_from_github": 62,
+  "tcp_endpoints_tested_from_github": 64,
+  "tcp_configs": 155,
   "note": "TCP success from GitHub is not a VLESS/Reality check and does not imply connectivity from mobile networks in Russia"
 }
