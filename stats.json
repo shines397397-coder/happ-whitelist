@@ -35,8 +35,8 @@
   "input_unique_endpoints_host_port": 88,
   "main_configurations": 209,
   "main_unique_endpoints_host_port": 88,
-  "tcp_endpoints_reachable_from_github": 84,
+  "tcp_endpoints_reachable_from_github": 79,
   "tcp_endpoints_tested_from_github": 88,
-  "tcp_configs": 202,
+  "tcp_configs": 190,
   "note": "TCP success from GitHub is not a VLESS/Reality check and does not imply connectivity from mobile networks in Russia"
 }
