@@ -32,11 +32,11 @@
     }
   ],
   "input_unique_configurations": 250,
-  "input_unique_endpoints_host_port": 77,
-  "main_configurations": 172,
-  "main_unique_endpoints_host_port": 77,
-  "tcp_endpoints_reachable_from_github": 72,
-  "tcp_endpoints_tested_from_github": 77,
-  "tcp_configs": 163,
+  "input_unique_endpoints_host_port": 78,
+  "main_configurations": 173,
+  "main_unique_endpoints_host_port": 78,
+  "tcp_endpoints_reachable_from_github": 76,
+  "tcp_endpoints_tested_from_github": 78,
+  "tcp_configs": 169,
   "note": "TCP success from GitHub is not a VLESS/Reality check and does not imply connectivity from mobile networks in Russia"
 }
