@@ -2,8 +2,8 @@
   "sources": [
     {
       "source": "https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt",
-      "valid": 112,
-      "added": 112,
+      "valid": 118,
+      "added": 118,
       "ok": true
     },
     {
@@ -31,12 +31,12 @@
       "ok": true
     }
   ],
-  "input_unique_configurations": 230,
-  "input_unique_endpoints_host_port": 65,
-  "main_configurations": 142,
-  "main_unique_endpoints_host_port": 65,
+  "input_unique_configurations": 236,
+  "input_unique_endpoints_host_port": 68,
+  "main_configurations": 146,
+  "main_unique_endpoints_host_port": 68,
   "tcp_endpoints_reachable_from_github": 61,
-  "tcp_endpoints_tested_from_github": 65,
-  "tcp_configs": 134,
+  "tcp_endpoints_tested_from_github": 68,
+  "tcp_configs": 133,
   "note": "TCP success from GitHub is not a VLESS/Reality check and does not imply connectivity from mobile networks in Russia"
 }
